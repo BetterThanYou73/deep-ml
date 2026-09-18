@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T21:49:10.882Z",
+  "generated_at": "2026-09-18T22:09:04.817Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -76,6 +76,19 @@
       "path": "math/0159-lstm-parameter-count-and-gate-arithmetic",
       "first_solved_at": "2026-09-18T21:49:10.155Z",
       "last_pushed_at": "2026-09-18T21:49:10.155Z"
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-09-18T22:09:04.137Z",
+      "last_pushed_at": "2026-09-18T22:09:04.137Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
