@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 5 problems · 0 labs · 0 math
+**6** solved · 5 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-17 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-17 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-17 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [LSTM Parameter Count and Gate Arithmetic](https://www.deep-ml.com/math-problems/159) | easy | 2026-09-18 | [solution](math/0159-lstm-parameter-count-and-gate-arithmetic) |
 
 ---
 
