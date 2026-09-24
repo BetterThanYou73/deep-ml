@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:15:34.666Z",
+  "generated_at": "2026-09-24T22:20:01.684Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -370,6 +370,17 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-24T22:12:27.928Z",
       "last_pushed_at": "2026-09-24T22:12:27.928Z"
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-09-24T22:20:00.917Z",
+      "last_pushed_at": "2026-09-24T22:20:00.917Z"
     }
   }
 }
